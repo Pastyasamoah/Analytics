@@ -1,2 +1,0 @@
-class project:
-pass
